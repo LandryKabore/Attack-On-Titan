@@ -20,7 +20,7 @@ The system supports complete **CRUD operations, includes **LLM natural language 
 
 Features
 
-### ✔ 1. Graphical User Interface (GUI)
+1. Graphical User Interface (GUI)
 The Flask GUI allows users to:
 
 - **Create** new characters  
@@ -59,4 +59,5 @@ Final database size:
 ---
 
 Project Structure
+
 
